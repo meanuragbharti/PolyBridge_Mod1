@@ -1,0 +1,13 @@
+{
+  "name": "Sailboat",
+  "description": "A hand-drawn sailboat circled by birds on the sea at sunrise",
+  "image": "ipfs://QmaKrmY8zodgtMDdMpxAXMuKRQfEVcZFrMtxZYdjgwNNE2/3.png",
+  "atmosphere": "sunny",
+  "style": "Dawn",
+  "attributes": {
+    "weather": "clear",
+    "object": "Sailboat",
+    "location": "water planet"
+  },
+  "token_id": 3
+}

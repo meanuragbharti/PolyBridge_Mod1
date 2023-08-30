@@ -1,0 +1,13 @@
+{
+  "name": "Astronaut",
+  "description": "A 3D render of an astronaut walking in a green desert",
+  "image": "ipfs://QmaKrmY8zodgtMDdMpxAXMuKRQfEVcZFrMtxZYdjgwNNE2/4.png",
+  "advertisment": "coldrink",
+  "style": "Galaxy",
+  "attributes": {
+    "color": "yellow",
+    "object": "bottle",
+    "location": "side wall"
+  },
+  "token_id": 4
+}

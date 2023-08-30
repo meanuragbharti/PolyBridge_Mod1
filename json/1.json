@@ -1,0 +1,13 @@
+{
+  "name": "Monkey astronaut",
+  "description": "High quality photo of a monkey astronaut",
+  "image": "ipfs://QmaKrmY8zodgtMDdMpxAXMuKRQfEVcZFrMtxZYdjgwNNE2/1.png",
+  "atmosphere": "clear",
+  "style": "Space",
+  "attributes": {
+    "weather": "sunny",
+    "object": "house",
+    "location": "Mussourie"
+  },
+  "token_id": 1
+}

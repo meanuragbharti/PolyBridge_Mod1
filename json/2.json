@@ -1,0 +1,13 @@
+{
+  "name": "Hot air balloon",
+  "description": "A 3D render of a rainbow colored hot air balloon flying above a reflective lake",
+  "image": "ipfs://QmaKrmY8zodgtMDdMpxAXMuKRQfEVcZFrMtxZYdjgwNNE2/2.png",
+  "atmosphere": "starry night",
+  "style": "Ocean",
+  "attributes": {
+    "weather": "chilling",
+    "object": "stars",
+    "location": "Mars"
+  },
+  "token_id": 2
+}

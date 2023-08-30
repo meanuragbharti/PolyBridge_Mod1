@@ -1,0 +1,13 @@
+{
+  "name": "Robot playing Chess",
+  "description": "An oil painting by Matisse of a humanoid robot playing chess",
+  "image": "ipfs://QmaKrmY8zodgtMDdMpxAXMuKRQfEVcZFrMtxZYdjgwNNE2/5.png",
+  "animal": "bear",
+  "style": "sitting",
+  "attributes": {
+    "color": "brown",
+    "object": "bear",
+    "location": "China"
+  },
+  "token_id": 5
+}
